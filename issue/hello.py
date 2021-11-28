@@ -1,2 +1,2 @@
 print("Hello, Git!")
-print("Commit it")
+print("Commit that!")
